@@ -1,1 +1,2 @@
-api_key = "LYjsd2LLDOXRsqkw0FkCKg5Aa6uV5TnF"
+#NOAA
+mytoken = "JZiTmNpXgYPUSEXPgnNxwDLQyzNeaPhX"

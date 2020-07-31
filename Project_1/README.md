@@ -12,7 +12,7 @@ To uncover a correlation with demand of rideshare Requests vs weather conditions
 ### Repository contents
 * ```weather_source.ipynb``` - API request pull and data cleanup
 * ```weather_by_month_IQR.ipynb``` - Boxplots of weather conditions by months
-* ```Uber_Lyft_dataframe.ipynb``` - Uber demand graphs
+* ```Uber_Lyft_Bar_Charts.ipynb``` - Uber demand graphs
 * ```Scatter_Plots.ipynb``` - Scatter and linear regression plots of rideshare demand vs weather
   
 ## Findings

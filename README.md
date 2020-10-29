@@ -1,5 +1,3 @@
-# Mighty Pandas
-
 ## Our Goal
 
 To uncover a correlation with demand of rideshare Requests vs weather conditions.
